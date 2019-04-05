@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DataFromXML/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DataFromXML/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DataFromXML/MainPage.xaml) (VB: [MainPage.xaml](./VB/DataFromXML/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DataFromXML/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DataFromXML/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to display data from an XML file
